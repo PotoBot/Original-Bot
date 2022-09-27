@@ -1,30 +1,10 @@
-# The LoliBot-MD ✨
+# 𝖕𝖔𝖙𝖔 𝖇𝖔𝖙 ✨
 
 ### —◉ 𝗗𝘂𝗱𝗮 𝘀𝗼𝗯𝗿𝗲 𝗲𝗹 𝗯𝗼𝘁?
 𝗖𝗼𝗻𝘁𝗮𝗰𝘁𝗮𝗺𝗲 ✨ 
 
-<a href="http://wa.me/5492266466080" target="blank"><img src="https://img.shields.io/badge/creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="http://wa.me/573234465820" target="blank"><img src="https://img.shields.io/badge/creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
-
-[![blog](https://img.shields.io/badge/Grupo-lolibot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://chat.whatsapp.com/Lus9S60MABnH9lF4Wf2T7k)  <a href="https://chat.whatsapp.com/Lus9S60MABnH9lF4Wf2T7k"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
-
-[![blog](https://img.shields.io/badge/Grupo2-lolibot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://chat.whatsapp.com/IJmvzc45SVg1lbErQqysc8) <a href="https://chat.whatsapp.com/IJmvzc45SVg1lbErQqysc8"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
-
------
-[![blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtu.be/gh5NajZOTA8)  <img src="https://github.com/siegrin/siegrin/blob/main/Assets/powerup.gif" height="29px">
------
-
-### `—◉ 💥 ACTIVAR EN ACIDICNODES 💥`
-
-𝐐𝐮𝐢𝐞𝐫𝐞 𝐭𝐞𝐧𝐞𝐫 𝐮𝐧 𝐛𝐨𝐭 𝟐𝟒/𝟕 𝐚𝐜𝐭𝐢𝐯𝐨
-
-<p align="hihg">   
-<a href="https://portal.acidicnodes.com" target="_blank"> <img src="https://img.shields.io/badge/-AcidicNodes-%23E4405F?style=for-the-badge&logo=acidicnodes&logoColor=black" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
-
------
 
 ### 𝐀𝐂𝐓𝐈𝐕𝐀 𝐄𝐋 𝐓𝐄𝐑𝐌𝐔𝐗
 ```bash
@@ -38,8 +18,8 @@
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/elrebelde21/The-LoliBot-MD
-> cd The-LoliBot-MD
+> git clone https://github.com/PotoBot/Original-Bot.git
+> cd Original-Bot
 > npm install
 > yarn install 
 > npm install
@@ -56,7 +36,7 @@
 ```bash
 𝐄𝐒𝐂𝐑𝐈𝐁𝐄 𝐋𝐎𝐒 𝐒𝐈𝐆𝐔𝐈𝐄𝐍𝐓𝐄𝐒 𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐔𝐍𝐎 𝐏𝐎𝐑 𝐔𝐍𝐎:
 > cd 
-> cd The-LoliBot-MD
+> cd Original-Bot
 > npm start
 ```
 ----
@@ -65,33 +45,13 @@
 ```bash
 𝐄𝐒𝐂𝐑𝐈𝐁𝐄 𝐋𝐎𝐒 𝐒𝐈𝐆𝐔𝐈𝐄𝐍𝐓𝐄𝐒 𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐔𝐍𝐎 𝐏𝐎𝐑 𝐔𝐍𝐎:
 > cd 
-> cd The-LoliBot-MD
+> cd Original-Bot
 > rm -rf session.data.json
 > npm start
 ```
 ----
 
-### `—◉ 🔥 ACTIVAR EN BOXMINEHOST 🔥`
 
-<p align="hihg">   
-<a href="https://dash.boxmineworld.com" target="_blank"> <img src="https://img.shields.io/badge/-boxmine-%23E4405F?style=for-the-badge&logo=acidicnodes&logoColor=black" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
-
-----
-### 🟣 𝐀𝐂𝐓𝐈𝐕𝐀 𝐄𝐋 𝐇𝐄𝐑𝐎𝐊𝐔
-#### ☂️ 𝐏𝐀𝐑𝐀 𝐔𝐒𝐀𝐑𝐈𝐎𝐒 𝐃𝐄 𝐇𝐄𝐑𝐎𝐊𝐔
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/elrebelde21/The-LoliBot-MD) <img src="https://c.tenor.com/OIc0cAei3dwAAAAd/gato-baile.gif" height="32px">
-### Añada lo siguente al Buildpack: <img src="https://cdn-0.emojis.wiki/emoji-pics/microsoft/backhand-index-pointing-down-microsoft.png" height="32px">
-```bash
-> heroku/nodejs
-```
-```bash
-> https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
-```
-```bash
-> https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
-```
------
   
 ### `—◉ 📝 𝐍𝐎𝐓𝐀 📝`
 ```bash
@@ -104,7 +64,7 @@
 🔸𝐓𝐡𝐞 𝐋𝐨𝐥𝐢𝐁𝐨𝐭-𝐌𝐃, 𝐍𝐎 𝐒𝐄 𝐇𝐀𝐂𝐄 𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐀𝐁𝐋𝐄 𝐃𝐄𝐋 𝐔𝐒𝐎, 𝐍𝐔𝐌𝐄𝐑𝐎𝐒, 𝐏𝐑𝐈𝐕𝐀𝐂𝐈𝐃𝐀𝐃 𝐘 𝐂𝐎𝐍𝐓𝐄𝐍𝐈𝐃𝐎 𝐌𝐀𝐍𝐃𝐀𝐃𝐎, 𝐔𝐒𝐀𝐃𝐎 𝐎 𝐆𝐄𝐒𝐓𝐈𝐎𝐍𝐀𝐃𝐎 𝐏𝐎𝐑 𝐔𝐒𝐓𝐄𝐃𝐄𝐒 𝐎 𝐄𝐋 𝐁𝐎𝐓.
 ```
 ----
-## `𝐄𝐃𝐈𝐓𝐎𝐑 𝐘 𝐏𝐎𝐑𝐏𝐈𝐄𝐓𝐀𝐑𝐈𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓` 
+## `𝑫𝑼𝑬𝑵̃𝑶 𝑶𝑹𝑰𝑮𝑰𝑵𝑨𝑳 𝐃𝐄𝐋 𝐁𝐎𝐓` 
 <a href="https://github.com/elrebelde21"><img src="https://github.com/elrebelde21.png" width="300" height="300" alt="elrebelde21"/></a>
 
 `The LoliBot-MD _ Byelrebelde`
